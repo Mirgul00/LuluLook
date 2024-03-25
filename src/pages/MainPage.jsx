@@ -1,11 +1,14 @@
-import "../styles/MainPage.css";
+import Header from "../components/Header/Header.jsx";
+import "../components/Header/Header.jsx";
+import Promo from "../components/Promo/Promo.jsx";
 
 function MainPage () {
 
     return (
-        <div className="mainPage">
-            Mainpage
-        </div>
+        <>
+            <Header />
+            <Promo />
+        </>
     )
 }
 export default MainPage;

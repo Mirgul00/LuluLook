@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+}
+  
+.logo {
+    font-size: 10px;
+}
+.menu_logo img {
+    width:  9px; 
+    height: auto; 
+    margin-left: -255px;
+    margin-bottom: 2px;
+  }
+  
+  
+.icons {
+    display: flex;
+
+}
+  
+.icon {
+    font-size: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+  
+.icon:hover {
+    color: black;
+}
+h1 {
+    text-align: center;
+}
