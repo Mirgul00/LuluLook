@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+.namebasket{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 30px;
+    padding-top: 40px;
+    margin-left:-40px;
+    text-align: center;
+
+}
+.line{
+  width:  98%;
+  background-color: #000000;
+  margin-left: 10px;
+  margin-top: 14px;
+  border-width: 3px;
+}
+.photo{
+  transform: scale(1.5);
+  margin-top:155px;
+    margin-left: 280px;
+    width: 900px;
+    height: auto;
+}
+.word1{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: -495px;
+    margin-left:210px;
+    text-align: center;
+
+}
+.word2{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 27px;
+    padding-top: -90px;
+    margin-left:-310px;
+    text-align: center;
+
+}
+.wordcombo{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 95px;
+    margin-left:-290px;
+    text-align: center;
+
+}
+.wordcombo1{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left:-280px;
+    text-align: center;
+
+}
+.wordcombo2{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left:-265px;
+    text-align: center;
+
+}
+.wordcombo3{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left:-260px;
+    text-align: center;
+
+}
+.wordscombo{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 95px;
+    margin-left:-290px;
+    text-align: center;
+
+}
+.wordscombo1{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left:-230px;
+    text-align: center;
+
+}
+.wordscombo2{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left:-190px;
+    text-align: center;
+
+}
+.wordscombo3{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left:-270px;
+    text-align: center;
+
+}
+.wordsall{
+  font-family: "Comfortaa", sans-serif;
+    font-size: 25px;
+    margin-top: -300px;
+    margin-left:380px;
+    text-align: center;
+
+}
+
+.button-container1 {
+    margin-top: 130px;
+    border-radius: 9px;
+    margin-left: 600px;
+    font-size: 29px;
+    
+    
+  }
+  a.button {
+    font-family: "Comfortaa", sans-serif;
+    border-radius: 3%;
+    
+
+    display: inline-block;
+    border: 1px solid #555555;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333333;
+    background-color: #EEEEEE;
+    border-radius: 35px;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    border-radius: 4px;
+    font-size: 70%;
+    
+    
+  }
+  a.button:hover {
+    border-color: #707070;
+    background-color: #ffffff;
+    text-align: center
+  }
+  .line2{
+    width:  98%;
+    background-color: #000000;
+    margin-left: 10px;
+    margin-top: 80px;
+    border-width: 3px;
+  }
+
+
+
