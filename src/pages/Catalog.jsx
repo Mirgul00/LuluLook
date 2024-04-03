@@ -1,10 +1,12 @@
+import CatalogCard from '../components/CatalogCard/CatalogCard.jsx';
+
 function Catalog () {
     
 
     return (
-        <div>
-            Catalog Page
-        </div>
+        <>
+           <CatalogCard />
+        </>
     )
 }
 
