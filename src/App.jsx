@@ -6,6 +6,7 @@ function App() {
       Lulu Look 
       <Header />
       <Promo />
+      
     </div>
   );
 }
