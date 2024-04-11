@@ -110,39 +110,35 @@
 
 }
 
-.button-container1 {
-    margin-top: 130px;
-    border-radius: 9px;
-    margin-left: 600px;
-    font-size: 29px;
-    
-    
-  }
-  a.button {
-    font-family: "Comfortaa", sans-serif;
-    border-radius: 3%;
-    
+.button-container {
+  margin-top: 100px;
+  border-radius: 5px;
+  margin-left: 590px;
+  
+}
+a.button {
+  font-family: "Comfortaa", sans-serif;
+  
 
-    display: inline-block;
-    border: 1px solid #555555;
-    padding: 10px 20px;
-    text-decoration: none;
-    color: #333333;
-    background-color: #EEEEEE;
-    border-radius: 35px;
-    width: 50%;
-    height: 50%;
-    display: flex;
-    border-radius: 4px;
-    font-size: 70%;
-    
-    
-  }
-  a.button:hover {
-    border-color: #707070;
-    background-color: #ffffff;
-    text-align: center
-  }
+  display: inline-block;
+  border: 1px solid #555555;
+  padding: 9px 180px;
+  text-decoration: none;
+  color: #333333;
+  background-color: #EEEEEE;
+  border-radius: 35px;
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px -20px;
+}
+a.button:hover {
+  border-color: #7c7c7c;
+  background-color: #FFFFFF;
+  
+}
+ 
   .line2{
     width:  98%;
     background-color: #000000;
@@ -151,5 +147,22 @@
     border-width: 3px;
   }
 
+  .all1 {
+    margin-top: 1px;
+
+
+  }
+  .all2{
+    margin-top: 1px;
+
+  }
+  .all3{
+    margin-top: 1px;
+
+  }
+  .all4{
+    margin-top: 1px;
+
+  }
 
 

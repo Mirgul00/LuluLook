@@ -37,6 +37,6 @@ export const router = createBrowserRouter([
         id: 'Basket',
         path: '/basket',
         element: <Basket />
-    }
-
+    },
+    
 ]);
