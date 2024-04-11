@@ -35,12 +35,13 @@ function End() {
             
            </div>
            <div className='bottom-bar'>
-            <p>&copy; 2024 your company. All rights reserved</p>
-
-           </div>
            <div className="end_text">
                 <p> LULU LOOK </p>
             </div>
+            <p>&copy; 2024 your company. All rights reserved</p>
+            
+           </div>
+         
       </footer>
     );
 }

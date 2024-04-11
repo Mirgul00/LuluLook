@@ -1,7 +1,6 @@
 import  '../BasketCard/BasketCard.css';
 import photodress from '../../assets/img.png';
 
-
 function BasketCard () {
     return (
             <div className='BasketCart'>

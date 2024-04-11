@@ -10,26 +10,27 @@ header {
     color: black;
     margin-top: -10px;
 }
-  
-.logo {
+
+.logo a{
     font-family: "DM Mono", monospace;
     font-size: 30px;
     margin-left: 50px;
-    
+    color: black;
 }
+
 .menu_logo img {
-    width:  25px; 
-    height: 20px; 
-    margin-left: -780px;
+    width:  26px; 
+    height: 23px; 
+    margin-left: -782px;
     margin-bottom: -2px;
-  }
-  
-  
+}
+
 .icons {
     display: flex;
-
 }
-  
+.icons a {
+    color: black;
+}
 .icon {
     font-size: 33px;
     margin-left: 20px;
@@ -39,6 +40,8 @@ header {
 .icon:hover {
     color: black;
 }
+
 h1 {
     text-align: center;
 }
+

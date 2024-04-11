@@ -1,7 +1,6 @@
 import '../pagesStyles/Login.css'
 import loginPageImg from '../assets/icons/Без названия 1.png'
 import { eventWrapper } from '@testing-library/user-event/dist/utils'
-
 function Login () {
     return (
         <div className='wrapper'>

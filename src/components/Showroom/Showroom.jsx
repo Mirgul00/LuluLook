@@ -6,7 +6,7 @@ function Showrooms () {
     return (
         <div className='showrooms'>
             <img className="showroomImage" src={ShowroomImg} alt="" />
-            <button href='#' class='button'>View the selection</button>
+            {/* <button href='#' class='button'>View the selection</button> */}
             <div className='girl2Image'>
                 <img src={Girl2Image} alt="" />
                 <p>You are Beautiful, <br />no matter what they say</p>

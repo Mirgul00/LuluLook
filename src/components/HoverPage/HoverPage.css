@@ -1,11 +1,10 @@
-
-
 .box1 img{
     position: relative;
     margin-top: 150%;
     font-size: 100px;
     width: 500px;
     height: auto;
+    
 }
 
 .box1 {
@@ -77,6 +76,11 @@
 
 .top-img3:hover {
     opacity: 1;
+}
+
+.menu1{
+    text-decoration: none;
+    
 }
 
 

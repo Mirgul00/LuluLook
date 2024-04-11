@@ -183,13 +183,15 @@
     background-color: #EEEEEE;
     border: 1px solid #000000;
     border-radius: 0px;
-    /* border-radius: 5px; */
-    /* margin-left: 49%; */
-    /* background-color: #e6e6e6; */
-    /* color: rgb(172, 172, 172); */
+    /* border-radius: 5px;
+    margin-left: 49%;
+    background-color: #e6e6e6;
+    color: rgb(172, 172, 172); */
 }
 
 .productPageButton img {
     width: 14px;
     margin-left: 10px;
 }   
+
+
