@@ -14,10 +14,29 @@ function Menu () {
                     <div className='menu'>
                         <ul className='menu__list'>
                             <li className='menu__item'>
-                                <a className="menu__link" href="#">j hfeifo</a>
+                                <a className="menu__link" href="#"><h2>Menu</h2></a>
+                            </li>
+                            <li className='menu__item'>
+                                <a className="menu__link" href="#">New collection</a>
+                            </li>
+                            <li className='menu__item'>
+                                <a className="menu__link" href="#">Collection</a>
+                            </li>
+                            <li className='menu__item'>
+                                <a className="menu__link" href="#">Selecnion</a>
+                            </li>
+                            <li className='menu__item'>
+                                <a className="menu__link" href="#">About us</a>
                             </li>
                         </ul>
+                        <li className='menu__us'>
+                                <a className="menu__link" href="#">About us</a>
+                            </li>
+                            <li className='menu__us'>
+                                <a className="menu__link" href="#">About us</a>
+                            </li>
                     </div>
+
                 </div>
             </header>
         </body>

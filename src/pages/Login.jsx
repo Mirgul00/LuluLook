@@ -1,15 +1,12 @@
 import '../pagesStyles/Login.css'
 import loginPageImg from '../assets/icons/Без названия 1.png'
-import { eventWrapper } from '@testing-library/user-event/dist/utils'
+
 
 function Login () {
     return (
         <div className='wrapper'>
             <div className='form-box login'></div>
-            {/* <div className='img'>
-                <img src={loginPageImg} alt="" srcset="" />
-            </div> */}
-                <h2>LULU LOOK</h2>
+                <h3 className='lulu'>LULU LOOK</h3>
                 <form action="#">
                     <div className='input-box'>
                     <span className='icon'>

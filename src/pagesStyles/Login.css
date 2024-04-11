@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); 
 .wrapper .form-box {
     width: 100%;
 }
-
-.form-box .h2{
+.lulu{
+    font-family: "Playfair Display", serif;
+    font-style: normal;
+}
+.form-box .h3{
     font-size: 1em;
     color: black;
     text-align: center;
     margin-top: 3%;
-    font-family: "Comfortaa", sans-serif;
+    font-family:   "Playfair Display", serif
 }
 
 .input-box {
@@ -19,14 +23,14 @@
     margin: 10px 0;
     margin-left: 5%;
     margin-top:10%;
-    font-family: "Comfortaa", sans-serif;
+    font-family: "Playfair Display", serif
 }
 
 
 .input-box label {
     position: absolute;
-    top: 5%;
-    left: 5px;
+    margin-top: -7%;
+    left: -2%;
     transform: translateY(-50%);
     font-size: 2em;
     color: rgb(90, 90, 90);
@@ -35,6 +39,7 @@
     transition: .2s;
     font-weight: 100;
     font-family: "Comfortaa", sans-serif;
+    margin-left: 10px;
 }
 
 .input-box input:focus~label,
@@ -52,7 +57,7 @@
     color: rgb(90, 90, 90);
     font-weight: 500;
     padding: 0 35px 0 5px;
-    font-family: "Comfortaa", sans-serif;
+    font-family: "Playfair Display", serif
 }
 
 /* .remember-forgot {
@@ -108,12 +113,110 @@
 }
 
 .warning {
-    margin-top: 7%;
-    margin-left: 2%;
+    font-size: 12px;
+    margin-top: 9%;
+    margin-left: 4%;
     font-family: "Comfortaa", sans-serif;
 }
 
 .warning .login-warning{
     color: rgb(90, 90, 90);
     font-family: "Comfortaa", sans-serif;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .wrapper .form-box {
+        width: 80px;
+    }
+
+
+    .img img{
+        width:350px;
+    } 
+
+    .input-box {
+        width: 350px;
+        font-size: 10;
+    }
+
+    /* .input-box label {
+        width: 900px;
+    } */
+
+    .btn {
+        width: 150px;
+    }
+
+    .button {
+        width: 100px;
+    }
+
+    .warning {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .img img{
+        width:250px;
+    }
+
+    .input-box {
+        width: 240px;
+        
+    }
+
+    /* .input-box label {
+        width: 10px;
+    } */
+
+    .btn {
+        width: 100px;
+        height: 35px;
+    }
+
+    .button {
+        width: 80px;
+        height: 35px;
+    }
+
+    .warning {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .img img{
+        width:150px;
+    }
+
+    .input-box {
+        width: 145px;
+        height: 30px;
+        font-size: 1px;
+    }
+
+    /* .input-box label {
+        width: 100px;
+    } */
+
+    .btn {
+        width: 80px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .button {
+        width: 60px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .warning {
+        font-size: 7px;
+        margin-bottom: 45px;
+    }
+
 }
