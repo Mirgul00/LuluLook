@@ -2,20 +2,20 @@
 
 .filter{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     padding-top: 40px;
     margin-left:-40px;
 }
 
 .line11{
-    width: 17%;
+    width: 90%;
     background-color: #000000;
     margin-left: -1px;
 }
 
 .word22{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     margin-bottom: 3px;
     margin-left:-40px;
 
@@ -24,21 +24,21 @@
 }
 .word3{
     font-family: "Comfortaa", sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 
 .word4{
     font-family: "Comfortaa", sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 
 .word5{
     font-family: "Comfortaa", sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
@@ -46,45 +46,45 @@
 
 
 .line222{
-    width: 17%;
+    width: 90%;
     background-color: #000000;
     margin-left: -1px;
 }
 
 .price1{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     padding-top: 7px;
     margin-left:-40px;
 }
 .word11{
     font-family: "Comfortaa", sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     margin-bottom: 3px;
     margin-left:-40px;
     word-spacing:10px;
 }
 
 .line3{
-    width:  17%;
+    width:  90%;
     background-color: #000000;
     margin-left: -1px;
 }
 
 .Material{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 .num1{
     font-family: "Comfortaa", sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 .line4{
-    width:  17%;
+    width:  90%;
     background-color: #000000;
     margin-left: -2px;
     
@@ -92,89 +92,89 @@
 
 .color{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     margin-bottom: 3px;
     margin-left:-2px;
 }
 .color1{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 10px;
     margin-left:-2px;
 }
 .color2{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 12px;
     margin-left:-2px;;
 }
 .color3{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 12px;
     margin-left:-2px;
 }
 .color4{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
-    margin-top: 12px;
+    font-size:20px;
+    margin-top: 15px;
     margin-left:-2px;
 }
 .word7{
     font-family: "Comfortaa", sans-serif;
-    font-size:12px;
+    font-size:17px;
     margin-bottom: 12px;
     margin-left:-3px;
 }
 .line4{
-    width:  17%;
+    width:  90%;
     background-color: #000000;
     margin-left: -2px;
 }
 .style{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 .line5{
-    width:  17%;
+    width:  90%;
     background-color: #000000;
     margin-left: -2px;
     margin-top: 14px;
 }
 .prinT{
     font-family: "Comfortaa", sans-serif;
-    font-size: 17px;
+    font-size: 25px;
     margin-bottom: 3px;
     margin-left:-40px;
 }
 .coz1{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 12px;
     margin-left:-2px;
 }
 .coz2{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 12px;
     margin-left:-2px;
 }
 .coz3{
     font-family: "Comfortaa", sans-serif;
-    font-size:14px;
+    font-size:20px;
     margin-top: 12px;
     margin-left:-2px;
 }
 .last{
     font-family: "Comfortaa", sans-serif;
-    font-size:12px;
+    font-size:17px;
     margin-bottom: 12px;
     margin-left:-40px;
 }
 .line6{
-    width:  17%;
+    width:  90%;
     background-color: #000000;
     margin-left: -2px;
     margin-top: 14px;
@@ -194,7 +194,7 @@
     color: #333333;
     background-color: #EEEEEE;
     border-radius: 35px;
-    width: 10%;
+    width: 70%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -204,42 +204,42 @@
     border-color: #b4b4b4;
     background-color: #FFFFFF;
   }
-  .alima{
-    margin-top:-720px;
+  /* .alima{
+    margin-top:-920px;
     margin-left: 330px;
     width: 400px;
     height: auto;
 
-  }
+  } */
 
-  .vl {
+  /* .vl {
     border-left: 2px solid rgb(0, 0, 0);
     height: 2000px;
-    margin-left: 290px;
-    margin-top: -410px;
-}
-.alima2{
-    margin-top:-1994px;
-    margin-left: 330px;
+    margin-left: 380px;
+    margin-top: -1000px; */
+/* } */
+/* .alima2{
+    margin-top:-1454px;
+    margin-left: 430px;
     width: 400px;
     height: auto;
 
   }
   .heart  {
     margin-top: -490px;
-    margin-left: 580px;
+    margin-left: 680px;
     
   }
   .namedress{
     font-family: "Comfortaa", sans-serif;
     font-size: 17px;
     margin-top: 380px;
-    margin-left:310px;
+    margin-left:410px;
 
     font-size: 17px;
     /* padding-top: 20px; */
     /* margin-left:-40px; */
-  }
+  /* }
 
   .sum{
     font-family: "Comfortaa", sans-serif;
@@ -250,14 +250,129 @@
     font-size: 17px;
     /* padding-top: 20px; */
     /* margin-left:-40px; */
-  }
-  .elips  {
+  /* }
+  .elipse  {
     margin-top: -5px;
-    margin-left: 570px;
+    margin-left: 670px;
     
   }
   .elipse {
     margin-top: -35px;
     margin-left: 970px;
     
+  } */ 
+  .create-line {
+    height: 1070px;
+    border-left: 2px solid #000000;
+    margin-left: 380px;
+    margin-top: -970px;
+    height: 2000px;
   }
+  .border{
+    margin-left: 410px;
+    margin-top:-1990px;
+  }
+  .dress{
+    margin-left: 410px;
+    margin-top:-503px;
+    max-width: 100% 
+
+  }
+  .all{
+    margin-left:660px;
+    margin-top:50px;
+
+  }
+  .namedress{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-top: -50px;
+    margin-left:410px;
+  }
+  .sum{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-top: -53px;
+    margin-left:610px;
+  }
+/* .................................................... */
+.card6{
+  margin-left: -55px;
+}
+.border6{
+  margin-left: 410px;
+  margin-top:-1990px;
+}
+.dress6{
+  margin-left: 510px;
+  margin-top:-503px;
+  max-width: 100% 
+
+}
+.all6{
+  margin-left:800px;
+  margin-top:50px;
+
+}
+.namedress6{
+  font-family: "Comfortaa", sans-serif;
+  font-size: 17px;
+  margin-top: -50px;
+  margin-left:410px;
+}
+.sum6{
+  font-family: "Comfortaa", sans-serif;
+  font-size: 17px;
+  margin-top: -53px;
+  margin-left:610px;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  width: 300px;
+}
+
+.card__list {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 50px;
+ 
+  
+
+}
+
+.card__product {
+  border: 1px solid rgb(106, 107, 106);
+  height: 490px;
+
+}
+
+.card__product_title {
+display: flex;
+justify-content: space-between;
+padding: 10px;
+}
+
+
+.side__line {
+  width: 1.5px;
+  background: #555555 ;
+  height: 20000px;
+}
+.card__product_description{
+  font-family: "Comfortaa", sans-serif;
+  margin-top: 20px;
+
+}
+.card__product_price{
+  font-family: "Comfortaa", sans-serif;
+  margin-top: 20px;
+
+}
+

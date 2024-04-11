@@ -1,7 +1,7 @@
 function ProductId () {
     return (
         <div>
-            ProductPage
+            ProductPage 
         </div>
     )
 }

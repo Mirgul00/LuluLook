@@ -4,6 +4,7 @@ import Catalog from "./pages/Catalog";
 import ProductId from "./pages/ProductId";
 import Basket from "./pages/Basket";
 
+
 export const router = createBrowserRouter([
     {
         id: 'Base',
@@ -24,6 +25,6 @@ export const router = createBrowserRouter([
         id: 'Basket',
         path: '/basket',
         element: <Basket />
-    }
-
+    },
+    
 ]);
