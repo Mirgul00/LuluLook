@@ -7,7 +7,6 @@ import dress4 from '../../assets/dress4.png';
 
 
 
-
 function BasketCard () {
     return (
             <div className='BasketCart'>
