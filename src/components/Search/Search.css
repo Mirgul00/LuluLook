@@ -1,6 +1,6 @@
 
 
-form{
+.Search__Form {
     position: relative;
     top: 50%;
     left: 93%; 
@@ -12,7 +12,7 @@ form{
     background: white;
     box-sizing: border-box;
     border-radius: 40px;
-    /* border: 3px solid black; */
+    /* border: 1px solid black; */
     padding: 5px;
 }
 
@@ -48,6 +48,7 @@ input{
 form:hover{
     width: 400px;
     cursor: pointer;
+    border: 2px solid black;
 }
 form:hover input{
     display: block;

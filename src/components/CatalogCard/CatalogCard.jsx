@@ -1,14 +1,8 @@
-
 import '../CatalogCard/CatalogCard.css';
 import menuIcon from '../../assets/img.png';
 import alima2 from '../../assets/Rectangle 44 (1).png';
 import heart1 from '../../assets/icons/ph_heart-thin.png';
-import elipse from '../../assets/icons/Ellipse 31.png'
-
-
-
-
-
+import elipse from '../../assets/icons/Ellipse 31.png';
 
 function CatalogCard (){
     return (
