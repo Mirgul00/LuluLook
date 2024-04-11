@@ -1,7 +1,7 @@
 .home,
 .reports,
 .products {
-  display: flex;
+  /* display: flex; */
   height: 90vh;
   align-items: center;
   justify-content: center;
@@ -12,10 +12,11 @@
 
 /* Navbar CSS */
 .navbar-m {
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   height: 80px;
   display: flex;
-  margin-top: -422.5%;
+  /* margin-top: -422.5%; */
+  margin-top: -7590.3px;
   margin-left: 0.6%;
   justify-content: flex-start;
   align-items: center;

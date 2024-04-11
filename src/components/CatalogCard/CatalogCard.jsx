@@ -1,6 +1,9 @@
-
 import '../CatalogCard/CatalogCard.css';
 import menuIcon from '../../assets/img.png';
+
+import alima2 from '../../assets/Rectangle 44 (1).png';
+import heart1 from '../../assets/icons/ph_heart-thin.png';
+import elipse from '../../assets/icons/Ellipse 31.png';
 // import alima2 from '../../assets/Rectangle 44 (1).png';
 // import heart1 from '../../assets/icons/ph_heart-thin.png';
 // import elipse from '../../assets/icons/Ellipse 31.png'
@@ -8,9 +11,6 @@ import border from '../../assets/Rectangle 44 (1).png';
 import dress from '../../assets/dress11.png';
 import elipse from '../../assets/icons/Ellipse 31.png'
 import dress11 from '../../assets/dress3.png';
-
-
-
 
 
 
