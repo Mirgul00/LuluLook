@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Serif+Display:ital@0;1&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Manjari:wght@100;400;700&display=swap');
+.containerFooter{
+    font-family:"Comfortaa", sans-serif;
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer-content{
+    width: 33.3%;
+}
+
+footer {
+    background: black;
+    padding-top: 50px;
+}
+
+h3 {
+    color: white;
+    font-size: 28px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.footer-content p{
+    color: white;
+    width: 190px;
+    margin: auto;
+    padding: 7px;
+}
+
+.footer-content ul {
+    text-align: center;
+}
+.list {
+    
+    padding: 0;
+}
+.list li {
+    width: auto;
+    text-align: center;
+    list-style-type: none;
+    padding: 7px;
+    position: relative;
+}
+.list li a {
+    color: white;
+}
+
+.list li::before{
+    content: '';
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 100%;
+    width: 0;
+    height: 2px;
+    background: #9C9C9C;
+    transition-duration: .5s;
+}
+.list li:hover::before{
+    width: 70px;
+}
+
+
+.follow {
+    padding: 0;
+}
+.follow li {
+    width: auto;
+    text-align: center;
+    list-style-type: none;
+    padding: 7px;
+    position: relative;
+}
+.follow li a {
+    color: white;
+}
+.follow li::before{
+    content: '';
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 100%;
+    width: 0;
+    height: 2px;
+    background: #9C9C9C;
+    transition-duration: .5s;
+}
+.follow li:hover::before{
+    width: 70px;
+}
+
+.bottom-bar{
+    background: #9C9C9C;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 270px;
+}
+.bottom-bar p{
+    color: #343434;
+    margin: 0;
+    font-size: 16px;
+    padding: 14px;
+}
+
+.end_text p {
+    color: white;
+    font-size: 200px;
+    margin-top: -16%;
+}

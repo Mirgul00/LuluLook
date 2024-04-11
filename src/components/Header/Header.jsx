@@ -6,17 +6,19 @@ import menuIcon from '../../assets/icons/menuIcon.png';
 function Header () {
     return (
       <header>
-      <div className="logo">MENU</div>
+      <div className="logo"><a href="@">MENU</a></div>
       <div className='menu_logo'>
       <img src={menuIcon} alt="" />
       </div>
+      
       <div className="icons">
-        <FaShoppingBasket className="icon" />
-        <FaUser className="icon" />
         <FaSearch className="icon" />
+        <a href="/basket"><FaShoppingBasket className="icon" /></a>
+        <a href="/login"><FaUser className="icon" /></a>
+
       </div>
     </header>
     )
 }
 
-export default Header;  
+export default Header; 

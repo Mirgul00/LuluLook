@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+.filter{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    padding-top: 40px;
+    margin-left:-40px;
+}
+
+.line11{
+    width: 17%;
+    background-color: #000000;
+    margin-left: -1px;
+}
+
+.word22{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+
+
+  
+}
+.word3{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+
+.word4{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+
+.word5{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+
+
+
+.line222{
+    width: 17%;
+    background-color: #000000;
+    margin-left: -1px;
+}
+
+.price1{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    padding-top: 7px;
+    margin-left:-40px;
+}
+.word11{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 12px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+    word-spacing:10px;
+}
+
+.line3{
+    width:  17%;
+    background-color: #000000;
+    margin-left: -1px;
+}
+
+.Material{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+.num1{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 14px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+.line4{
+    width:  17%;
+    background-color: #000000;
+    margin-left: -2px;
+    
+}
+
+.color{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-bottom: 3px;
+    margin-left:-2px;
+}
+.color1{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 10px;
+    margin-left:-2px;
+}
+.color2{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;;
+}
+.color3{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;
+}
+.color4{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;
+}
+.word7{
+    font-family: "Comfortaa", sans-serif;
+    font-size:12px;
+    margin-bottom: 12px;
+    margin-left:-3px;
+}
+.line4{
+    width:  17%;
+    background-color: #000000;
+    margin-left: -2px;
+}
+.style{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+.line5{
+    width:  17%;
+    background-color: #000000;
+    margin-left: -2px;
+    margin-top: 14px;
+}
+.prinT{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-bottom: 3px;
+    margin-left:-40px;
+}
+.coz1{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;
+}
+.coz2{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;
+}
+.coz3{
+    font-family: "Comfortaa", sans-serif;
+    font-size:14px;
+    margin-top: 12px;
+    margin-left:-2px;
+}
+.last{
+    font-family: "Comfortaa", sans-serif;
+    font-size:12px;
+    margin-bottom: 12px;
+    margin-left:-40px;
+}
+.line6{
+    width:  17%;
+    background-color: #000000;
+    margin-left: -2px;
+    margin-top: 14px;
+}
+.button-container {
+    margin-top: 20px;
+    border-radius: 5px;
+
+  }
+  a.button1 {
+    font-family: "Comfortaa", sans-serif;
+
+    display: inline-block;
+    border: 1px solid #555555;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333333;
+    background-color: #EEEEEE;
+    border-radius: 35px;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  a.button1:hover {
+    border-color: #b4b4b4;
+    background-color: #FFFFFF;
+  }
+  .alima{
+    margin-top:-720px;
+    margin-left: 330px;
+    width: 400px;
+    height: auto;
+
+  }
+
+  .vl {
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 2000px;
+    margin-left: 290px;
+    margin-top: -410px;
+}
+.alima2{
+    margin-top:-1994px;
+    margin-left: 330px;
+    width: 400px;
+    height: auto;
+
+  }
+  .heart  {
+    margin-top: -490px;
+    margin-left: 580px;
+    
+  }
+  .namedress{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-top: 380px;
+    margin-left:310px;
+
+    font-size: 17px;
+    /* padding-top: 20px; */
+    /* margin-left:-40px; */
+  }
+
+  .sum{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 17px;
+    margin-top: -53px;
+    margin-left:210px;
+
+    font-size: 17px;
+    /* padding-top: 20px; */
+    /* margin-left:-40px; */
+  }
+  .elips  {
+    margin-top: -5px;
+    margin-left: 570px;
+    
+  }
+  .elipse {
+    margin-top: -35px;
+    margin-left: 970px;
+    
+  }
